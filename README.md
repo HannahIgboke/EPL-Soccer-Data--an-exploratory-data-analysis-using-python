@@ -18,3 +18,7 @@ This dataset contains data of every game from the 2018-2019 season in the Englis
 2. What is the distribution of the features of the game? Are there outliers?
 3. For a team winning at half time, how does it change at full time?
 4. Does the number of red cards a team receives have an effect on its probability of winning a game?
+
+# Solutions
+
+Solutions to the project tasks can be found in my jupyter notebook [here](https://github.com/HannahIgboke/EPL-Soccer-Data--an-exploratory-data-analysis-using-python/blob/main/EPL%20soccer%20data%20analysis.ipynb).
